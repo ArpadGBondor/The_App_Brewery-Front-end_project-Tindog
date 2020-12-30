@@ -1,4 +1,4 @@
-# [The App Brewery - Front-end project - Tindog](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project-Tindog/)
+# [The App Brewery - Front-end project 01 - Tindog](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_01-Tindog/)
 
 ## Udemy - The Complete 2020 Web Development Bootcamp
 ### Section 6: Introduction to Bootstrap 4
